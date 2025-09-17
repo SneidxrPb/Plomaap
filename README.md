@@ -17,7 +17,10 @@ Se pueden listar aquí las tecnologías que uses, por ejemplo:
 - Frontend: React, Tailwind CSS  
 - Backend: Django / Node.js / FastAPI  
 - Base de datos: PostgreSQL / MongoDB  
-- Otros: Stripe (para pagos en línea), Google Maps API  
+- Otros: Stripe (para pagos en línea), Google Maps API
+
+##Link Encuesta 
+https://docs.google.com/forms/d/e/1FAIpQLSe70cJ2kFocZ0YSidPuHzQ3WOqk39BU6iVmVI-IzU9qcWJwog/viewform?usp=header
 
 ## Instalación
 
